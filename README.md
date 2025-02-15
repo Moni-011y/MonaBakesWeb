@@ -23,7 +23,7 @@ Mona Bakes is a bakery website that showcases new arrivals, most wanted cakes, a
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/monabakes.git
+   git clone https://github.com/moni-011y/monabakes.git
    ```
 2. Navigate to the project folder:
    ```bash
